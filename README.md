@@ -1,17 +1,17 @@
-# **MASTER PROJECT PLAN - PLANC ECOSYSTEM: REVOLUSI AI TRADING & EDUKASI WEB3 DI SUI NETWORK - BENTUK FINAL**
+# **MASTER PROJECT PLAN - PLANC ECOSYSTEM: REVOLUSI AI TRADING & EDUKASI WEB3  - **
 **Versi 2.0 **
 
 ---
 
 **PENDAHULUAN**
 
-Dokumen ini adalah **Master Project Plan untuk Planc Ecosystem: Revolusi AI Trading & Edukasi Web3 di Sui Network.**  Dokumen ini merangkum **visi, misi, roadmap, tokenomics, dan strategi peluncuran & pemasaran** proyek, berdasarkan diskusi dan pengembangan yang telah dilakukan hingga saat ini.  *Master Project Plan* ini berfungsi sebagai **panduan utama dan referensi strategis** untuk pengembangan dan peluncuran Planc Ecosystem yang sukses.
+Dokumen ini adalah **Master Project Plan untuk Planc Ecosystem: Revolusi AI Trading & Edukasi Web3 .**  Dokumen ini merangkum **visi, misi, roadmap, tokenomics, dan strategi peluncuran & pemasaran** proyek, berdasarkan diskusi dan pengembangan yang telah dilakukan hingga saat ini.  *Master Project Plan* ini berfungsi sebagai **panduan utama dan referensi strategis** untuk pengembangan dan peluncuran Planc Ecosystem yang sukses.
 
 ---
 
 ## **1. JUDUL PROYEK**
 
-**Planc Ecosystem: Revolusi AI Trading & Edukasi Web3 di Sui Network**
+**Planc Ecosystem: Revolusi AI Trading & Edukasi Web3 **
 
 ---
 
@@ -37,7 +37,7 @@ Planc Ecosystem lahir dari kesadaran akan adanya **kesenjangan besar** dalam dun
 ## **3. VISI, MISI, DAN TUJUAN JANGKA PANJANG PLANC ECOSYSTEM**
 
 *   **VISI:**
-    > Menjadi ekosistem **TERDEPAN dan TERBESAR** di dunia untuk AI Trading & Edukasi Web3, **MEMBERDAYAKAN** jutaan orang di seluruh dunia untuk meraih kebebasan finansial dan menguasai masa depan Web3.
+    > Menjadi ekosistem **TERDEPAN dan TERBESAR**  untuk AI Trading & Edukasi Web3, **MEMBERDAYAKAN** jutaan orang di  untuk meraih kebebasan finansial dan menguasai masa depan Web3.
 
 *   **MISI:**
     > Menyediakan platform **TERPADU, AKSESIBEL, dan INOVATIF** yang menggabungkan:
@@ -50,15 +50,15 @@ Planc Ecosystem lahir dari kesadaran akan adanya **kesenjangan besar** dalam dun
     *   **Adopsi Massal:** Mengakuisisi jutaan pengguna aktif di seluruh dunia dan menjadi pintu gerbang utama menuju Web3 untuk pemula.
     *   **Inovasi Berkelanjutan:** Terus berinovasi dan mengembangkan fitur-fitur baru yang revolusioner dalam AI Trading & Edukasi Web3, serta berkontribusi pada kemajuan ekosistem Sui Network dan industri kripto secara keseluruhan.
     *   **Desentralisasi & Tata Kelola Komunitas:**  Secara bertahap mendesentralisasikan tata kelola Planc Ecosystem melalui DAO dan memberdayakan komunitas untuk memiliki dan mengendalikan platform.
-    *   **Dampak Sosial Positif:**  Menciptakan dampak sosial positif dengan meningkatkan literasi Web3 dan finansial di seluruh dunia, serta membuka peluang ekonomi baru melalui AI Trading.
+    *   **Dampak Sosial Positif:**  Menciptakan dampak sosial positif dengan meningkatkan literasi Web3 dan finansial , serta membuka peluang ekonomi baru melalui AI PLANC .
 
 ---
 
-## **4. ROADMAP GLOBAL - PLANC ECOSYSTEM: REVOLUSI AI TRADING & EDUKASI WEB3 DI SUI NETWORK (TIMELINE FINAL - VERSI 5)**
+## **4. ROADMAP GLOBAL - PLANC ECOSYSTEM: REVOLUSI AI TRADING & EDUKASI WEB3 DI SUI NETWORK **
 
 Roadmap global Planc Ecosystem terbagi menjadi **3 Fase Utama yang saling berkesinambungan:**
 
-*   **FASE 1: FONDASI & PENGEMBANGAN INTI - "Fase Genesis" (Q1-Q2 2024)**
+*   **FASE 1: FONDASI & PENGEMBANGAN INTI - "Fase Genesis" (Q1-Q2 2025)**
     *   **Fokus:** Membangun **fondasi teknologi, tim, dan komunitas awal** Planc Ecosystem.
     *   **Timeline:** Kuartal 1 - Kuartal 2 2024 (Perkiraan 3-4 Bulan)
     *   **Deliverables Utama:**
@@ -68,7 +68,7 @@ Roadmap global Planc Ecosystem terbagi menjadi **3 Fase Utama yang saling berkes
         *   Pengembangan **Website & Whitepaper**: Pembuatan website *landing page* awal dan *whitepaper* proyek versi 1.
         *   Pembangunan **Komunitas Awal**: Membangun komunitas inti melalui media sosial dan *platform* komunitas kripto.
 
-*   **FASE 2: PELUNCURAN BETA & EKSPANSI KOMUNITAS - "Fase Voyager" (Q3-Q4 2024)**
+*   **FASE 2: PELUNCURAN BETA & EKSPANSI KOMUNITAS - "Fase Voyager" (Q3-Q4 2025)**
     *   **Fokus:** **Pengujian platform, pengumpulan *feedback* pengguna, dan ekspansi komunitas** Planc Ecosystem.
     *   **Timeline:** Kuartal 3 - Kuartal 4 2024 (Perkiraan 2-3 Bulan)
     *   **Deliverables Utama:**
@@ -79,9 +79,9 @@ Roadmap global Planc Ecosystem terbagi menjadi **3 Fase Utama yang saling berkes
         *   **Kemitraan Strategis Awal**: Menjalin kemitraan strategis awal dengan proyek dan *influencer* di ekosistem Sui Network.
         *   **Persiapan Peluncuran Token PLANC**: Persiapan teknis, legal, dan pemasaran untuk peluncuran token PLANC.
 
-*   **FASE 3: PELUNCURAN RESMI & ADOPSI MASSAL - "Fase Ascension" (2025 & SETERUSNYA)**
+*   **FASE 3: PELUNCURAN RESMI & ADOPSI MASSAL - "Fase Ascension" (2026 & SETERUSNYA)**
     *   **Fokus:** **Peluncuran resmi Planc Ecosystem untuk publik, pemasaran massal, dan ekspansi ekosistem** Planc Ecosystem.
-    *   **Timeline:** 2025 & Seterusnya (Berkelanjutan)
+    *   **Timeline:** 2026 & Seterusnya (Berkelanjutan)
     *   **Deliverables Utama:**
         *   **Peluncuran Resmi Planc Ecosystem (Planc Academy & Planc AI) untuk Publik**: Peluncuran versi publik Planc Academy dan Planc AI dengan fitur lengkap.
         *   **Peluncuran Token PLANC & Public Sale**: Peluncuran token PLANC dan *public sale* untuk distribusi token dan penggalangan dana pengembangan.
@@ -93,7 +93,7 @@ Roadmap global Planc Ecosystem terbagi menjadi **3 Fase Utama yang saling berkes
 
 ---
 
-## **5. STRUKTUR TOKENOMICS PLANC ECOSYSTEM - TERBAIK DARI YANG TERBAIK (FINAL - VERSI 1)**
+## **5. STRUKTUR TOKENOMICS PLANC ECOSYSTEM - TERBAIK DARI YANG TERBAIK **
 
 Tokenomics Planc Ecosystem dirancang untuk **menciptakan ekosistem yang berkelanjutan, memberikan insentif kepada pengguna dan kontributor, serta mendorong pertumbuhan jangka panjang** proyek.
 
@@ -122,7 +122,7 @@ Tokenomics Planc Ecosystem dirancang untuk **menciptakan ekosistem yang berkelan
 
 ---
 
-## **6. STRATEGI PELUNCURAN & PEMASARAN PLANC ECOSYSTEM - BAGIAN 1: TARGET AUDIENS & PESAN PEMASARAN UTAMA (FINAL - VERSI 2c)**
+## **6. STRATEGI PELUNCURAN & PEMASARAN PLANC ECOSYSTEM - BAGIAN 1: TARGET AUDIENS & PESAN PEMASARAN UTAMA **
 
 Strategi peluncuran dan pemasaran Planc Ecosystem akan **difokuskan untuk menjangkau target audiens yang tepat dengan pesan yang paling efektif**, melalui saluran pemasaran yang optimal di setiap fase peluncuran.
 
@@ -139,7 +139,7 @@ Strategi peluncuran dan pemasaran Planc Ecosystem akan **difokuskan untuk menjan
         *   **Komunitas Sui Network yang Aktif dan Inovatif:** Anggota **komunitas Sui Network** yang **antusias dan *early adopters***, selalu mencari **proyek inovatif dan berkualitas** yang dibangun di atas Sui Network.
         *   **Pengguna Web2 yang Ingin Beralih ke Web3:** Pengguna internet **Web2 yang penasaran dan tertarik untuk beralih ke Web3**, namun membutuhkan **pintu masuk yang mudah dan panduan yang jelas** untuk memulai perjalanan Web3 mereka.
 
-*   **PESAN PEMASARAN UTAMA (Key Marketing Message) - Versi 2c (FINAL):**
+*   **PESAN PEMASARAN UTAMA (Key Marketing Message):**
 
     > ```
     > "Masa Depan Web3 Dimulai di Sui dengan Planc Ecosystem!
@@ -150,11 +150,11 @@ Strategi peluncuran dan pemasaran Planc Ecosystem akan **difokuskan untuk menjan
     > Bangun Masa Depan Keuanganmu Bersama **Komunitas Planc!**"
     > ```
 
-    > **Pesan ini MENONJOLKAN NILAI UTAMA** Planc Ecosystem: **Edukasi Web3, AI Trading, dan Komunitas**, serta **MENEGASKAN POSISI UNIK** Planc Ecosystem sebagai **pintu gerbang menuju Web3 di ekosistem Sui Network**.
+    > **Pesan ini MENONJOLKAN NILAI UTAMA** Planc Ecosystem: **Edukasi Web3, AI Trading, dan Komunitas**, serta **MENEGASKAN POSISI UNIK** Planc Ecosystem sebagai **pintu gerbang menuju Web3 di ekosistem Planc Network**.
 
 ---
 
-## **7. STRATEGI PELUNCURAN & PEMASARAN PLANC ECOSYSTEM - BAGIAN 2: FASE PELUNCURAN (FINAL)**
+## **7. STRATEGI PELUNCURAN & PEMASARAN PLANC ECOSYSTEM - BAGIAN 2: FASE PELUNCURAN **
 
 Strategi peluncuran Planc Ecosystem akan **dilakukan secara bertahap dalam 3 Fase Utama yang saling berkesinambungan**, untuk **membangun momentum, mengoptimalkan sumber daya, dan mencapai tujuan pemasaran secara efektif di setiap tahapan.**
 
