@@ -226,6 +226,8 @@ Planc Ecosystem akan memanfaatkan **kombinasi sinergis dari berbagai saluran pem
     *   **Banner & Native Advertising:** Jaringan Iklan Banner Kripto, *Native Advertising Platforms*.
     *   **Paid Sponsorships & Partnerships:** *Event* Kripto, Proyek Kripto Lain.
 
+
+Leader : Fernando A.
 ---
 
 **KESIMPULAN**
